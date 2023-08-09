@@ -19,7 +19,7 @@ This is a simple To-Do List web application built using React. Users can add and
 7. The application allows users to input new tasks, which are then added to the list. Each task item has a "Delete" option, and clicking it will remove the item from the list.
 
 
-Usage:
+**Usage:**
 
 1. Clone or download the project files.
 2. Open the index.html file in a web browser to view the To-Do List application.
@@ -27,4 +27,4 @@ Usage:
 4. Click on a task to delete it from the list.
 
 
-This is a basic To-Do List application built with React, serving as a starting point for more complex applications with additional features and functionalities.
+**This is a basic To-Do List application built with React, serving as a starting point for more complex applications with additional features and functionalities.**
